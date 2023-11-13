@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1697870934" />
+    <testcase name="mux_2x1_test" classname="mux_2x1_test" file="/home/khaja/Desktop/venv/git_VLSI/mux/mux_2x1_test.py" lineno="4" time="0.04033851623535156" sim_time_ns="8.001" ratio_time="198.3464129746087" />
+  </testsuite>
+</testsuites>
